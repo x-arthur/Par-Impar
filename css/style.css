@@ -40,7 +40,8 @@ input{
     text-align: center;
     display: block;
     margin: auto;
-    margin-bottom:16px ;
+    margin-bottom:16px;
+    width: 64px;
 }
 [type = number]{
     /* background-color: blue; */
